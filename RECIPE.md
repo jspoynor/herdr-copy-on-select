@@ -1,8 +1,8 @@
-# Copy on Select
+# Copy Selected Text to Clipboard
 
-Select text in any terminal by dragging (or double/triple-clicking) and it's on the clipboard the moment you let go of the mouse, the way the Herdr TUI behaves. Nothing new appears in the window. Each copy posts Herdr's own "Copied" notification, the same toast that says an agent finished, which closes itself after 1.5 seconds.
+Highlight text in any Herdr terminal and it's copied the moment you let go of the mouse. No ⌘C, no right-click menu. Drag across a command, a path, an error or an agent's answer, release, and paste it anywhere. Double-click copies a word and triple-click copies a line. This is how the Herdr TUI already works (pictured: its "copied to clipboard" popup), and this mod brings the same behavior to the Herdr app. Each copy shows a short "Copied" notification so you know it worked, and nothing else is added to your window. macOS only.
 
-![Copy on Select](preview.png)
+![Copy Selected Text to Clipboard](preview.png)
 
 ## What you see
 

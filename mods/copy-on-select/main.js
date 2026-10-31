@@ -1,4 +1,4 @@
-// Copy on select: when you let go of the mouse after dragging a selection
+// Copy Selected Text to Clipboard: when you let go of the mouse after dragging a selection
 // (or after a double/triple-click) in a terminal, copy it, like the Herdr TUI.
 //
 // Mods only see presses (on_mouse_down_out), not releases. So on each left
